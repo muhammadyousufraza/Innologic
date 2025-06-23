@@ -1,0 +1,2 @@
+# Innologic
+Crafted for a forward-thinking tech solutions provider, this Custom WordPress Website brings InnoLogic’s innovation-driven identity to life through sleek UI/UX design and powerful CMS integration. Designed to position InnoLogic as a leader in technology consulting and digital transformation, the site combines clarity, performance, and visual sophistication to engage clients and streamline content management.
